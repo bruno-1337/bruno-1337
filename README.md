@@ -17,7 +17,7 @@ I have knowledge in JavaScript, Java, C, C++, Node.js, Python, MySQL, HTML, EJS,
 
 I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a full-stack developer and cybersecurity specialist.
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at maturegt@gmail.com
+Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at bruno@waifu.club
 
 
 <table border="0" cellspacing="0" cellpadding="0">
