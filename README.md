@@ -13,9 +13,9 @@
 
 I'm passionate about technology! I had my first contact with computers when I was 6 years old and since then i've been discovering a little more about this wonderful area, i like the opportunity that technology offers people, and the proposal to make people's lives easier.
 
-I have knowledge in JavaScript, Java, C, C++, Node.js, Python, MySQL, HTML, EJS, CSS, GIT, Linux, Windows and many more technologies!
+I have knowledge in JavaScript, Java, C, C++, Node.js, Python, SQL, HTML, EJS, CSS, Linux, Windows and many more technologies!
 
-I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a full-stack developer and cybersecurity specialist.
+I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a cybersecurity specialist.
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at bruno@waifu.club
 
