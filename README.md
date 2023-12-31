@@ -17,7 +17,7 @@ I have knowledge in JavaScript, Java, C, C++, Node.js, Python, SQL, HTML, EJS, C
 
 I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a cybersecurity specialist.
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at bruno@waifu.club
+Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at Discord: titanium1337
 
 
 <table border="0" cellspacing="0" cellpadding="0">
