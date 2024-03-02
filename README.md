@@ -5,17 +5,18 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/bruno-1337)](https://www.instagram.com/titanium1337/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/bruno-1337)](https://www.linkedin.com/in/brunobadaro/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/bruno-1337)](https://open.spotify.com/user/22xnf2c2j6y5kyvul5jec37wi)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/titanium1337)
 
 </h4>
 
 
-I'm passionate about technology! I had my first contact with computers when I was 6 years old and since then i've been discovering a little more about this wonderful area, i like the opportunity that technology offers people, and the proposal to make people's lives easier.
+Technology has been my playground since I was six, and it’s where I turn complexity into simplicity. I’m all about making tech work for people, streamlining processes, and enhancing lives.
 
-I have knowledge in JavaScript, Java, C, C++, Node.js, Python, SQL, HTML, EJS, CSS, Linux, Windows and many more technologies!
+- Proficient in: C++, C, Python, Java, Node.JS, Javascript
+- Skilled in SQL, HTML, EJS, CSS
+- Comfortable with both Linux and Windows environments
 
-I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a cybersecurity specialist.
+Currently, I’m working at Kryptus EED, where I conduct penetration tests and Red team operations. In my free time, I’m sharpening my skills through CTFs, bug bounties and Skyrim.
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at Discord: titanium1337
 
