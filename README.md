@@ -16,7 +16,7 @@ Technology has been my playground since I was six, and it’s where I turn compl
 - Skilled in SQL, HTML, EJS, CSS
 - Comfortable with both Linux and Windows environments
 
-Currently, I’m working at Kryptus EED, where I conduct penetration tests and Red team operations. In my free time, I’m sharpening my skills through CTFs, bug bounties and Skyrim.
+Currently, I’m working at Kryptus S.A. EED, where I conduct penetration tests and Red team operations. In my free time, I’m sharpening my skills through CTFs, bug bounties and Skyrim.
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at Discord: titanium1337
 
