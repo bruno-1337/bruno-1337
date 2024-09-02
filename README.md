@@ -3,7 +3,6 @@
 <h4 align="center">
 
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/bruno-1337)](https://www.instagram.com/titanium1337/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/bruno-1337)](https://www.linkedin.com/in/brunobadaro/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/titanium1337)
 
@@ -12,11 +11,11 @@
 
 Technology has been my playground since I was six, and it’s where I turn complexity into simplicity. I’m all about making tech work for people, streamlining processes, and enhancing lives.
 
-- Proficient in: C++, C, Python, Java, Node.JS, Javascript
+- Proficient in: C++, C, Python
 - Skilled in SQL, HTML, EJS, CSS
-- Comfortable with both Linux and Windows environments
+- Comfortable with Linux, Windows and MacOS environments
 
-Currently, I’m working at Cloudwalk Inc. where I conduct penetration tests and Red team operations. In my free time, I’m sharpening my skills through CTFs, bug bounties and Skyrim.
+Currently, I’m working at Cloudwalk Inc. where I conduct penetration tests and Red team operations. In my free time, I’m sharpening my skills through CTFs, bug bounties and Stardew Valley.
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at Discord: titanium1337
 
@@ -39,10 +38,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
           📺 <a href="https://www.youtube.com/titanium1337">Subscribe on Youtube</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/titanium1337/">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:maturegt@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:maturegt@gmail.com>Contact-me by email</a>
         </li>
       </ul>
     </td>
