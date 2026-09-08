@@ -11,10 +11,6 @@
 
 Technology has been my playground since I was six, and it’s where I turn complexity into simplicity. I’m all about making tech work for people, streamlining processes, and enhancing lives.
 
-- Proficient in: C++, C, Python
-- Skilled in SQL, HTML, EJS, CSS
-- Comfortable with Linux, Windows and MacOS environments
-
 Currently, I’m working at Cloudwalk Inc as a Principal Security Engineer. In my free time, I’m sharpening my skills through vibehacking, bug bounties and Skyrim.
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas.
@@ -27,7 +23,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
     </td>
     <td style="border: 0";>
       <p>
-        “First, solve the problem. Then, write the code.” – John Johnson.
+        “Luck is what happens when preparation meets opportunity.” – Séneca.
       </p>
       <h3>Other places you can find me</h3>
       <ul>
