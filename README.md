@@ -15,9 +15,9 @@ Technology has been my playground since I was six, and it’s where I turn compl
 - Skilled in SQL, HTML, EJS, CSS
 - Comfortable with Linux, Windows and MacOS environments
 
-Currently, I’m working at Cloudwalk Inc. where I conduct penetration tests and Red team operations. In my free time, I’m sharpening my skills through CTFs, bug bounties and Stardew Valley.
+Currently, I’m working at Cloudwalk Inc as a Principal Security Engineer. In my free time, I’m sharpening my skills through vibehacking, bug bounties and Skyrim.
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at Discord: titanium1337
+Let's have a coffee, I'm always open to learn new things and discuss crazy ideas.
 
 
 <table border="0" cellspacing="0" cellpadding="0">
