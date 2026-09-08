@@ -38,7 +38,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
           📺 <a href="https://www.youtube.com/titanium1337">Subscribe on Youtube</a>
         </li>
         <li>
-          📬 <a href=mailto:maturegt@gmail.com>Contact-me by email</a>
+          📬 <a href=mailto:bruno@mullvad.vip>Contact-me by email</a>
         </li>
       </ul>
     </td>
